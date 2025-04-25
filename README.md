@@ -1,16 +1,46 @@
-## Hi there 👋
+안녕하세요, 저는 조범근입니다. 네트워크 보안 분야에 열정을 가지고 다양한 보안 취약점 분석, 보안 강화 작업, 그리고 보안 자동화 도구 개발을 통해, 안전한 네트워크 환경을 구축하는 데 기여하고 있습니다.
 
-<!--
-**whathekim/whathekim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 네트워크 보안에 대한 열정
+네트워크 보안은 제게 단순한 직업을 넘어 끊임없이 도전하는 분야입니다. 해킹 대회(CTF)에 참여하고, 보안 취약점 분석을 통해 기술을 발전시키고 있습니다. 보안을 강화하는 과정에서 성취감을 얻고 있습니다.
 
-Here are some ideas to get you started:
+🛠️ 기술 스택
+다양한 보안 도구와 기술을 사용하여 보안 취약점을 분석하고 해결하는 데 익숙합니다. 제 기술 스택은 다음과 같습니다:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+프로그래밍 언어:
+🐍 Python, Bash, C
+
+보안 기술:
+🔐 SQL Injection, XSS, CSRF, Command Injection
+🔑 암호화(AES, RSA)
+🌍 네트워크 보안 및 취약점 분석
+
+해킹 도구:
+💻 Kali Linux, Metasploit, Burp Suite, Wireshark, Hydra
+🧰 Nmap, Nikto, Gobuster 등
+
+서버 & 시스템:
+🖥️ 리눅스 서버 관리
+☸️ Docker, Kubernetes
+
+🏆 주요 프로젝트
+SQL Injection 취약점 해결
+🔓 SQL Injection 취약점이 있는 웹 애플리케이션을 분석하고 이를 해결하는 방법을 적용한 프로젝트입니다. 데이터베이스의 보안을 강화했습니다.
+
+CSRF 취약점 분석 및 패치
+🛡️ CSRF 취약점을 발견하고 이를 해결하기 위한 보안 패치를 적용한 경험입니다. 웹 애플리케이션에서 안전한 사용자 인증을 구현했습니다.
+
+CTF 해킹 대회 문제 제작
+🧩 CTF 해킹 대회에서 참가자들이 보안 취약점을 분석하고 해결할 수 있도록 문제를 제작했습니다. 이 과정을 통해 보안 기술을 실전에서 적용할 수 있었습니다.
+
+네트워크 보안 강화
+🏰 실제 네트워크 환경에서 취약점을 분석하고, 이를 해결하기 위해 보안 방화벽, IDS/IPS(침입 탐지/차단 시스템) 설정 등 다양한 보안 강화 작업을 수행했습니다.
+
+✍️ 보안 관련 블로그 및 문서
+📚 블로그 - 보안 관련 주제에 대한 분석과 튜토리얼을 작성하며, 최신 보안 이슈에 대해 다루고 있습니다.
+
+📬 연락처
+💻 GitHub: beomgeun
+
+🔗 LinkedIn: beomgeun
+
+✉️ Email: beomgeun@example.com
