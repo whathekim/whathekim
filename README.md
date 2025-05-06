@@ -6,23 +6,30 @@
 
 ---
 
-## 🛠️ 기술 스택
-
-### 프로그래밍 언어:
-🐍 Python, Bash, C
-
-### 보안 기술:
-🔐 SQL Injection, XSS, CSRF, Command Injection
-🔑 암호화(AES, RSA)
-🌍 네트워크 보안 및 취약점 분석
-
-### 해킹 도구:
-💻 Kali Linux, Metasploit, Burp Suite, Wireshark, Hydra
-🧰 Nmap, Nikto, Gobuster 등
-
-### 서버 & 시스템:
-🖥️ 리눅스 서버 관리
-☸️ Docker, Kubernetes
+## 기술 스택
+### Shell & Scripting
+![Shell Script](https://img.shields.io/badge/-Shell%20Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+### DevOps & Containers
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### Version Control & Docs
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-121011?style=for-the-badge&logo=githubpages&logoColor=white)
+### Operating Systems
+![Rocky Linux](https://img.shields.io/badge/-Rocky%20Linux-10B981?style=for-the-badge&logo=rockylinux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+---
+## GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whathekim&show_icons=true&theme=tokyonight" alt="JeongHyeon96's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whathekim&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
