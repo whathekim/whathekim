@@ -14,7 +14,7 @@
 > 리눅스 환경에 최적화된 자동화 및 보고서 생성 기능 포함
 
 
-![CTFmain](CTF_PixelGallery_main.gif)
+![PixelGallery 시연](https://github.com/whathekim/CTF_PixelGallery/raw/main/CTF_PixelGallery_main.gif)
 
 ### 🎨 CTF 플랫폼 제작 – PIXEL GALLERY
 [▶ CTF_PixelGallery 레포로 이동](https://github.com/whathekim/CTF_PixelGallery)
