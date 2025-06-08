@@ -6,12 +6,17 @@
 ## 🏆 주요 프로젝트
 
 
-![shell-script](port-shellscript.gif)
+
+
+
+![ShellScript_TeamEN 시연](https://github.com/whathekim/ShellScript_TeamEN/raw/main/port-shellscript.gif)
 
 ### 🔍 취약점 진단 자동화 쉘 스크립트
 [▶ ShellScript_TeamEN 레포로 이동](https://github.com/whathekim/ShellScript_TeamEN)
 > 시스템 취약점을 자동으로 스캔하고 진단하는 스크립트 개발
 > 리눅스 환경에 최적화된 자동화 및 보고서 생성 기능 포함
+
+
 
 
 ![PixelGallery 시연](https://github.com/whathekim/CTF_PixelGallery/raw/main/CTF_PixelGallery_main.gif)
@@ -22,7 +27,9 @@
 > 문제 출제와 풀이 시스템을 직접 구현
 
 
-![Wargame_TeamESG_gif](Wargame_TeamESG_main.gif)
+
+
+![Wargame_TeamESG 시연](https://github.com/whathekim/Wargame_TeamESG/raw/main/Wargame_TeamESG_main.gif)
 
 ### 🎮 Wargame 플랫폼 제작
 [▶ Wargame_TeamESG 레포로 이동](https://github.com/whathekim/Wargame_TeamESG)
