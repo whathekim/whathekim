@@ -47,6 +47,18 @@
 
 ---
 
+
+
+
+![GNS 포폴](https://github.com/whathekim/GNSArchitecture/raw/main/GNS%20%ED%8F%AC%ED%8F%B4.PNG)
+
+### 🌐 GNS3 기반 보안 네트워크 아키텍처 설계  
+[▶ GNSArchitecture 레포로 이동](https://github.com/whathekim/GNSArchitecture)  
+> GNS3 시뮬레이터를 활용한 보안 중심 네트워크 아키텍처 설계  
+> FW-ASAv, WAF, VPN, SIEM, NMS 등 다양한 보안 장비 및 서버 구성  
+> 실습 기반 시나리오를 통해 침해 대응, 가시성 확보 등 목표 달성
+
+
 ## 📬 연락처
 💻 GitHub: whathekim
 
