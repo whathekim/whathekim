@@ -38,6 +38,16 @@
 > 실시간 보안 실습이 가능한 학습용 인터랙티브 시스템 구축
 
 
+
+
+![Wargame Report Demo](https://github.com/whathekim/hacking_report/blob/main/Wargame_report_main.gif?raw=true)
+
+### 🛡️ Wargame 모의해킹 보고서
+[▶ hacking_report 레포로 이동](https://github.com/whathekim/hacking_report)
+> Wargame_TeamESG 기반 모의해킹 실시
+> 취약점 분석/대응방안을 보고서로 작성
+
+
 ---
 
 ## 📬 연락처
