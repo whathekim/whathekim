@@ -8,18 +8,6 @@
 
 
 
-
-
-![ShellScript_TeamEN 시연](https://github.com/whathekim/ShellScript_TeamEN/raw/main/port-shellscript.gif)
-
-### 🔍 취약점 진단 자동화 쉘 스크립트
-[▶ ShellScript_TeamEN 레포로 이동](https://github.com/whathekim/ShellScript_TeamEN)
-> 시스템 취약점을 자동으로 스캔하고 진단하는 스크립트 개발
-> 리눅스 환경에 최적화된 자동화 및 보고서 생성 기능 포함
-
-
-
-
 ![PixelGallery 시연](https://github.com/whathekim/CTF_PixelGallery/raw/main/CTF_PixelGallery_main.gif)
 
 ### 🎨 CTF 플랫폼 제작 – PIXEL GALLERY
@@ -47,6 +35,15 @@
 > Wargame_TeamESG 기반 모의해킹 실시
 > 취약점 분석/대응방안을 보고서로 작성
 
+
+
+
+![ShellScript_TeamEN 시연](https://github.com/whathekim/ShellScript_TeamEN/raw/main/port-shellscript.gif)
+
+### 🔍 취약점 진단 자동화 쉘 스크립트
+[▶ ShellScript_TeamEN 레포로 이동](https://github.com/whathekim/ShellScript_TeamEN)
+> 시스템 취약점을 자동으로 스캔하고 진단하는 스크립트 개발
+> 리눅스 환경에 최적화된 자동화 및 보고서 생성 기능 포함
 
 ---
 
