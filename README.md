@@ -16,7 +16,7 @@
 > 문제 출제와 풀이 시스템을 직접 구현
 
 
-
+---
 
 ![Wargame_TeamESG 시연](https://github.com/whathekim/Wargame_TeamESG/raw/main/Wargame_TeamESG_main.gif)
 
@@ -26,7 +26,7 @@
 > 실시간 보안 실습이 가능한 학습용 인터랙티브 시스템 구축
 
 
-
+---
 
 ![Wargame Report Demo](https://github.com/whathekim/hacking_report/blob/main/Wargame_report_main.gif?raw=true)
 
@@ -36,7 +36,7 @@
 > 취약점 분석/대응방안을 보고서로 작성
 
 
-
+---
 
 ![ShellScript_TeamEN 시연](https://github.com/whathekim/ShellScript_TeamEN/raw/main/port-shellscript.gif)
 
