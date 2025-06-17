@@ -32,6 +32,7 @@
 
 ### 🛡️ Wargame 모의해킹 보고서
 [▶ hacking_report 레포로 이동](https://github.com/whathekim/hacking_report)
+[▶ 모의해킹 보고서 PDF 보기](https://github.com/whathekim/hacking_report/blob/main/%EC%A1%B0%EB%B2%94%EA%B7%BC%20%EB%AA%A8%EC%9D%98%ED%95%B4%ED%82%B9%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 > Wargame_TeamESG 기반 모의해킹 실시
 > 취약점 분석/대응방안을 보고서로 작성
 
