@@ -13,7 +13,7 @@
 ### ↳ 🎨 CTF 플랫폼 제작 – PIXEL GALLERY
 [▶ CTF_PixelGallery 레포로 이동](https://github.com/whathekim/CTF_PixelGallery)
 > WordPress, FTP, DB Injection 등 다양한 해킹 시나리오 구성
-> 문제 출제와 풀이 시스템을 직접 구현
+> 문제 출제와 풀이 시스템을 구현
 
 
 ---
